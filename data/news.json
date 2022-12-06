@@ -1,0 +1,509 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "45",
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 488,
+    "title": " HTML, CSS, and Javascript for Web Developers (Johns Hopkins)",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.susla.edu/assets/susla/images/WebDevelopmentImage.jpeg",
+    "details": "You will start from the ground up by learning how to use HTML, CSS, and Bootstrap (the most widely used CSS framework today) to create modern web pages. Youll then learn how to code your web page so that everything rearranges and resizes automatically according to the size of the users screen, be it a smartphone or a desktop. Youll make your design “responsive” — a must nowadays, since many internet users are on phones. Finally, youll finish the course exploring the most popular language of the web: JavaScript. Using Javascript, youll build a fully functional web application that utilizes Ajax."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "60",
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 488,
+    "title": "Hardware Security",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.apple.com/careers/images/teams/hardware/hero-large/default.jpg",
+    "details": "In this course, we will study security and trust from the hardware perspective. Upon completing the course, students will understand the vulnerabilities in current digital system design flow and the physical attacks to these systems. They will learn that security starts from hardware design and be familiar with the tools and skills to build secure and trusted hardware."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "59",
+    "category_id": "01",
+    "rating": {
+      "number": 4.8,
+      "badge": "Excellent"
+    },
+    "total_view": 400,
+    "title": "Introduction to HTML5 (Michigan)",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://techbeacon.com/sites/default/files/styles/social/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh",
+    "details": "In the first week, you’ll understand how URLs (the addresses of web pages) work when you type them into your web browser. You’ll take a look at the tools you need for coding, such as editors, browsers, and different software tools. You’ll end the week with some HTML5 concepts and the evolution of web design languages. There’s almost no coding in Week 1. The second week is more about code than theory. You’ll understand the Document Object Model (DOM), the tree-like model upon which all websites are built, and learn to use contextual tags and headings in HTML. You’ll also learn about links, images, lists, tables and multimedia to add video or audio to your webpage."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "120",
+    "category_id": "02",
+    "rating": {
+      "number": 4.3,
+      "badge": "Excellent"
+    },
+    "total_view": 400,
+    "title": "IBM Data Engineering Professional",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://www.interviewbit.com/blog/wp-content/uploads/2021/08/Data-Engineer-2-800x391.jpg",
+    "details": "This Professional Certificate is for anyone who wants to develop job-ready skills, tools, and a portfolio for an entry-level data engineer position. Throughout the self-paced online courses, you will immerse yourself in the role of a data engineer and acquire the essential skills you need to work with a range of tools and databases to design, deploy, and manage structured and unstructured data.  By the end of this Professional Certificate, you will be able to explain and perform the key tasks required in a data engineering role. You will use the Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You will work with Relational Databases (RDBMS) and query data using SQL statements. You will use NoSQL databases and unstructured data.  You will be introduced to Big Data and work with Big Data engines like Hadoop and Spark.  You will gain experience with creating Data Warehouses and utilize Business Intelligence tools to analyze and extract insights.   "
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "price": "74",
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 980,
+    "title": "Designing Hardware for Raspberry Pi Projects",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://conti-engineering.com/wp-content/uploads/2020/03/HardwareDec_Beitrag.jpg",
+    "details": "This is course 4 of this specialization (although it can be taken out of order) and focuses on applying experience and knowledge gained in the first three courses to build physical electronics hardware. Specifically, this course focuses on four areas: circuit simulation, schematic entry, PCB layout, and 3D CAD modeling. There are many excellent commercial applications available in these areas, however to give everyone access we'll be using all free and open-source software. By the end of this course you should feel comfortable using free and open-source software to design your own printed circuit board and any bracketry or case to hold it, customized for your application"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "price": "18",
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 980,
+    "title": "Responsive Web Design",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/04/4.-Responsive-Web-Design-freeCodeCamp.png",
+    "details": "You’ll start off by coding some HTML. And to make it cuter, you’ll be making a cat photo app! Step by step, you’ll add one HTML element after another, and your app is ready! Next up is CSS, so no more boring webpages! Now you’ll be able to add colors, change font style and size, and design your webpage to make it look more attractive. You’ll then build simple HTML forms and also use some new CSS tools to style your page."
+  },
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "75",
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": null,
+    "title": "Data Engineering Foundations Specialization",
+    "author": {
+      "name": null,
+      "published_date": "2022-08-30 15:00:04",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Intro_To_Data_Science.max-900x900.jpg",
+    "details": "Data engineering is one of the fastest-growing tech occupations, where the demand for skilled data engineers far outweighs the supply. The goal of data engineering is to make quality data available for fact-finding and data-driven decision making. This Specialization from IBM will help anyone interested in pursuing a career in data engineering by teaching fundamental skills to get started in this field. No prior data engineering experience is required to succeed in this Specialization. The Specialization consists of 5 self-paced online courses covering skills required for data engineering, including the data engineering ecosystem and lifecycle, Python, SQL, and Relational Databases.  You will learn these data engineering prerequisites through engaging videos and hands-on practice using real tools and real-world databases."
+  },
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "28",
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 111,
+    "title": "Embedding Sensors and Motors Specialization",
+    "author": {
+      "name": "system",
+      "published_date": null,
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://i.pinimg.com/originals/fb/55/13/fb5513f19b75d68e8279703fc81ebc09.png",
+    "details": "The courses in this specialization can also be taken for  academic credit as ECEA 5340-5343, part of CU Boulder’s Master  of Science in Electrical Engineering degree. Enroll here. Embedding Sensors and Motors will introduce you to the design of sensors and motors, and to methods that integrate them into embedded systems used in consumer and industrial products. You will gain hands-on experience with the technologies by building systems that take sensor or motor inputs, and then filter and evaluate the resulting data. You will learn about hardware components and firmware algorithms needed to configure and run sensors and motors in embedded solutions."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "price": "90",
+    "total_view": 733,
+    "title": "Introduction to Security Awareness Campaigns",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://www.managedsolution.com/wp-content/uploads/2018/09/Data-Security-vs.-Data-Privacy-Why-it-Matters.jpg",
+    "details": "Security Awareness Campaigns is about the components and reality of what makes awareness campaigns successful and which components are needed in it. This course will cover the basics of a security awareness campaign that is aimed at increasing security levels by addressing social engineering attacks and communicating the basics of awareness and threats companies face today. Learn the basic concepts of security awareness campaigns, quickly and easily! This course goes through relevant research into successful and failed attempts at increasing awareness, also going through complex standards and making them simple and easy to understand."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "price": "35",
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 733,
+    "title": "The Complete Cyber Security Course",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+    "image_url": "https://www.stealthlabs.com/wp-content/uploads/2020/10/whats-the-core-difference-between-data-security-and-data-privacy.jpg",
+    "details": "Learn a practical skill-set in defeating all online threats, including - advanced hackers, trackers, malware, zero days, exploit kits, cybercriminals and more. Become a Cyber Security Specialist - Go from a beginner to advanced in this easy to follow expert course. Covering all major platforms - Windows 7, Windows 8, Windows 10, MacOS and Linux. This course covers the fundamental building blocks of your required skill set - You will understand the threat and vulnerability landscape through threat modeling and risk assessments. We explore the Darknet and mindset of the cyber criminal. Covering malware, exploit kits, phishing, zero-day vulnerabilities and much more."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "48",
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 127,
+    "title": "Mobile Development Architecture",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+    "image_url": "https://www.etatvasoft.com/blog/wp-content/uploads/2022/08/mobile-app-development-methodologies.jpg",
+    "details": "This is an introduction the mobile development world. Java, Kotlin, Swift, Objective-C, React Native, Nativescript, Cordova, PhoneGap, Ionic, PWAs, Angular, Vue. The number of different technologies claiming to be the easiest or the most efficient way to build apps for mobile devices is overwhelming. This course is an effort to group them into architectural tiers to help you understand similarities and specificities of each one. At the end, you will not be able to create your app, but to understand what they can provide you. You might find good tips to both start your next app and organise a learning path to kick off your mobile developer career."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "25",
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 127,
+    "title": "Mobile App Development with Flutter & Dart (iOS and Android)",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+    "image_url": "https://www.zestminds.com/blog/wp-content/uploads/2021/04/Mobile-App-Development-Process-Banner.jpg",
+    "details": "Flutter is an extremely trending framework from Google that was released only in 2017. ​​And today, ​ Flutter has become the most popular cross-platform mobile framework, according to a 2021 developer survey from Statista. Based on this survey, a stunning 42 percent of software developers worldwide used Flutter. Flutter allows you to build beautiful native mobile apps for both iOS and Android with only one programming language - Dart. That means that you, as a developer do not need to learn Swift/Objective-C and Kotlin/Java in order to write apps for iOS and Android, but instead, use the revolutionizing framework from Google and learn only one language - Dart and create stunning apps for both platforms.”"
+  },
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "price": "75",
+    "total_view": 700,
+    "title": "Python, Bash and SQL Essentials for Data Engineering Specialization",
+    "author": {
+      "name": "Daniel Deangelo",
+      "published_date": "2022-08-30 20:02:52",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5f11b403cce608f59dbb8dc4_big-data-engineer.jpg",
+    "details": "If you are interested in developing the skills needed to be a data engineer, the Python, Bash and SQL Essentials for Data Engineering Specialization is a great place to start. We live in a world that is driven by big data - from what we search online to the route we take to our favorite restaurant, and everything in between. Businesses and organizations use this data to make decisions that impact the ways in which we navigate our lives. How do engineers collect this data? How can this data be organized so that it can be appropriately analyzed? A data engineer is specialized in this initial step of accessing, cleaning and managing big data."
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "price": "79",
+    "category_id": "06",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 300,
+    "title": "TCP/IP & OSI Network Architecture Models",
+    "author": {
+      "name": "",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ytimg.com/vi/pqJ8jz7lwns/maxresdefault.jpg",
+    "details": "Welcome to the Cisco - TCP/IP & OSI Network Architecture Model course! In this course you will be learning all the important information you need to fully understand TCP/IP and the OSI model which are directly related to your Cisco CCENT/CCNA exam objectives. Join the STUDENTS that LEARN and SUCCEED (Reviews are from all of my courses) follow and understand! Great course! Definitely will recommend this to others. If you like non dry material with good overall explanations and not just explanations written from a book, then take this course!"
+  },
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "30",
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 0,
+    "title": "Full-Stack Web Development with React",
+    "author": {
+      "name": "Reuters",
+      "published_date": "2022-08-25 03:09:16",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+    "details": "You’ll begin the course with an introduction to front-end JavaScript frameworks and libraries. You’ll be introduced to React and its components, followed by the different types of components and single-page applications of React router. Then you’ll move on to controlled and uncontrolled forms, and understand form validation in React applications. You’ll take a look at the Flux architecture pattern and understand how Redux helps realizing it. You’ll dive deeper into Redux by learning about Redux action, combining reducers, and Redux thunk. The course also teaches you about client-server communication using Fetch and the REST API."
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "52",
+    "category_id": "01",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 320,
+    "title": "Programming Foundations with JavaScript, HTML and CSS",
+    "author": {
+      "name": "John Pike",
+      "published_date": "2022-08-25 07:35:11",
+      "img": "https://www.zdnet.com/a/img/resize/0a6b0be2f543ddbf313fc83a706b807b77c3c202/2021/07/19/8a337c80-5ed6-43a1-98fb-b981d420890f/programming-languages-shutterstock-1680857539.jpg?auto=webp&fit=crop&height=900&width=1200"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all",
+    "details": "You’ll begin the course by taking a look at HTML and understanding the concepts of algorithms and programming. You’ll learn to program in HTML and add images, links and lists to build your own webpage and style it using CSS. You’ll learn the basic concepts of programming such as variables, methods, functions, loops, and conditionals. You’ll also understand and implement the green screen algorithm."
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "price": "88",
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 552,
+    "title": "Microsoft Azure Data Engineering Associate (DP-203) Professional",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-27 05:38:02",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+    "image_url": "https://i.ytimg.com/vi/SpaFPPByOhM/maxresdefault.jpg",
+    "details": "his Professional Certificate is intended for data engineers and developers who want to demonstrate their expertise in designing and implementing data solutions that use Microsoft Azure data services anyone interested in preparing for the Exam DP-203: Data Engineering on Microsoft Azure. This Professional Certificate will help you develop expertise in designing and implementing data solutions that use Microsoft Azure data services. You will learn how to integrate, transform, and consolidate data from various structured and unstructured data systems into structures that are suitable for building analytics solutions that use Microsoft Azure data services. his Professional Certificate is intended for data engineers and developers who want to demonstrate their expertise in designing and implementing data solutions that use Microsoft Azure data services anyone interested in preparing for the Exam DP-203: Data Engineering on Microsoft Azure. This Professional Certificate will help you develop expertise in designing and implementing data solutions that use Microsoft Azure data services. You will learn how to integrate, transform, and consolidate data from various structured and unstructured data systems into structures that are suitable for building analytics solutions that use Microsoft Azure data services. "
+  },
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "70",
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 879,
+    "title": "Introduction to Hardware and Operating Systems",
+    "author": {
+      "name": "RTTNews",
+      "published_date": "2022-08-25 11:53:13",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://www.betterteam.com/images/computer-hardware-engineer-job-description-4088x2725-2020121.jpeg?crop=2:1,smart&width=1200&dpr=2",
+    "details": "If you're ready to enter the world of Information Technology (IT), you need job-ready skills. This course enables you to develop the skills to work with computer hardware and operating systems, and is your first step to prepare for all types of tech related careers that require IT Fundamental skills. First, learn about the essential software brain of a computer—its operating system software when you explore Microsoft Windows. Next, discover internal key hardware computer components, including motherboard components, central processing unit (CPU)  memory, hard drives, expansion slots, and more. Become skilled at identifying the various hardware connections, including categories of ports, add-on peripherals such as mice, and other hardware components. Learn the essentials of basic workstation setup, commonly used operating system settings, screen capture commands, and job-essential good troubleshooting practices."
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "19",
+    "category_id": "03",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 1870,
+    "title": "Embedded Software and Hardware Architecture",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://www.parzlogic.com/wp-content/uploads/2018/07/chip-hardware-computer-1.jpg",
+    "published_date": "2022-08-24 18:00:00",
+    "details": "Embedded Software and Hardware Architecture is a first dive into understanding embedded architectures and writing software to manipulate this hardware. You will gain experience writing low-level firmware to directly interface hardware with highly efficient, readable and portable design practices. We will now transition from the Host Linux Machine where we built and ran code in a simulated environment to an Integrated Development Environment where you will build and install code directly on your ARM Cortex-M4 Microcontroller. Course assignments include writing firmware to interact and configure both the underlying ARM architecture and the MSP432 microcontroller platform. The course concludes with a project where you will develop a circular buffer data structure. In this course you will need the Texas Instruments LaunchPad with the MSP432 microcontroller in order to complete the assignments. Later courses of the Specialization will continue to use this hardware tool to develop even more exciting firmware."
+  },
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "45",
+    "category_id": "06",
+    "rating": {
+      "number": 4.2,
+      "badge": "Excellent"
+    },
+    "total_view": 354,
+    "title": "Network Architect Certification Training",
+    "author": {
+      "name": "Presstv",
+      "published_date": "2022-08-30 17:44:16",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://www.fusionconnect.com/hubfs/images/blog/blog-090721-network-architecture.jpg",
+    "details": "Simplilearn now ensure professional expertise and advancement towards desired designation for IT professionals with the launch of Network Architect Bundle. Initiated out of an extensive research conducted across millions of member profiles on LinkedIn, the most popular global network for professionals, this bundle is designed to reform and groom professionals in their area of specialization. To become a Network Architect, also called Network Visionary, a professional needs to have certifications and solid experience related to Network Design & Security along with business knowledge.  Simplilearn's Network Architect Bundle is an assortment of various courses that can build a strong base for IT professionals in their next career move. This bundle consists of the following courses"
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "price": "28",
+    "category_id": "05",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 100,
+    "title": "Full Stack Web & Mobile App Development",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+    "image_url": "https://www.concettolabs.com/blog/wp-content/uploads/2021/09/Mobile-App-Development-Process-3.png",
+    "details": "Welcome to Full Stack Web & Mobile App Development | Mern Stack Project course. If your answer is okay, you are in the right place. This Mobile App Development and Web Application Development with Mern Stack Project course will be a perfect match. React is one of the best choices for building modern web applications. If you are new to React or maybe you've been struggling to learn and truly understand what’s going on then this course is the best way for you to learn React.  Full stack web development, mern, mern stack, mern full stack, mern stack project, react, mern project, full stack, graphql, full stack Project, full stack web development project, react js, web development project Learning React Native is a great avenue through which to gain experience developing mobile apps. Udemy features top-rated React Native courses that take you through every level of the React Native framework, so that you can start writing better apps, faster."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "price": "65",
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 100,
+    "title": "IFCI Expert Cybercrime Investigator's Course",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/05/What-is-Data-Security.jpg",
+    "details": "IFCI’s flagship training program is the IFCI-CCI (Cybercrime Investigator) Training course. The IFCI-CCI teaches students the skills necessary to respond to all kinds of cybercrime incidents, from initial incident response and digital crime scene evidence acquisition to advanced forensic analysis and tracking International cybercriminals across the Internet. The main goal for this course is to empower the nation’s cyber investigators with the knowledge, skills and abilities to undertake and successfully carry out their own investigations. This course is the first step for investigators to turn the tables on cyber criminals who are fleecing legitimate economies worldwide of billions of dollars every year."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "name": "Web Development"
+  },
+  {
+    "id": "02",
+    "name": "Data Engineering"
+  },
+  {
+    "id": "03",
+    "name": "Hardware Engineering"
+  },
+  {
+    "id": "04",
+    "name": "Data Security Analysis"
+  },
+  {
+    "id": "05",
+    "name": "Mobile Application Development"
+  },
+  {
+    "id": "06",
+    "name": "Network Architecture"
+  },
+  {
+    "id": "07",
+    "name": "All Courses"
+  }
+]
